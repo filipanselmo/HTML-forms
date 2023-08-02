@@ -8,7 +8,7 @@ const botMessageList = [
     "Добрый день",
     "До свидания",
     "Вам помочь?",
-    "yare yare daze",
+    "see you",
 ]
 
 function getTimeNow() {
